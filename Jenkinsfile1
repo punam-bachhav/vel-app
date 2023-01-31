@@ -1,0 +1,32 @@
+
+
+pipeline {
+      agent {
+	     label "2Q31"
+		  }
+		  stages {
+		    stage ('stage-1') {
+			  steps {
+			   echo "hello all this is 2Q31 branch"
+			  	
+			}
+		  
+	
+		  }
+	 	
+	  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
